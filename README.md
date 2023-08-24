@@ -29,7 +29,7 @@ cd b2o && npm i
 
 ## Usage
 
-Easy, just rung it from anywhere:
+Using it is easy, just run it from anywhere:
 
 ```
 node ~/Documents/Programming\ Projects/b2o/start.js --spaceDirector=<directpry_to_space> --outdir=<output_directory>
