@@ -11,7 +11,7 @@ So I was more than halfway sold on the idea of using it instead of Boostnote. Un
 
 So I decided to make it a challenge for myself to code something that I can  do the conversion with. Especially since both programs uses plaintext files...
 
-So this is the result. a Node JS/Javacript command-line script to convert a Boostnote space into an Obsidian vault. Now I realize that I hardly use all of the features available, both in Boostnotte as well as Obsidian, so I know the script does not convet everything, just what I use. Nevertheless, I wanted to share it.
+So this is the result. a Node JS/Javacript command-line script to convert a Boostnote space into an Obsidian vault. Now, I realize that I hardly use all of the features available, both in Boostnotte as well as Obsidian, so I know the script does not convert everything, just what I use. Nevertheless, I wanted to share it.
 
 So here it is, **b2o**, for use by anyone, for expanding by anyone, and to generally just have fun with!
 
