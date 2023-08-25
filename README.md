@@ -1,7 +1,7 @@
 # b2o
 For converting a Boostnote space to Obsidian vault.
 
-I have always been a supporter of [Boostnoe](https://boostnote.io/). Unfortunately, very unfortunately indeed, their [last commit on Github](https://github.com/BoostIO/BoostNote.next-local) seem to have been last year. Leading me to think It's been abandoned.
+I have always been a supporter of [Boostnote](https://boostnote.io/). Unfortunately, very unfortunately indeed, their [last commit on Github](https://github.com/BoostIO/BoostNote.next-local) seem to have been last year. Leading me to think It's been abandoned.
 
 But no matter, I have the latest .AppImage available for it, so I wan't too worried. I'd just keep using that.
 
