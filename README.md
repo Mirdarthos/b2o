@@ -32,7 +32,7 @@ cd b2o && npm i
 Using it is easy, just run it from anywhere:
 
 ```
-node ~/Documents/Programming\ Projects/b2o/start.js --spaceDirector=<directpry_to_space> --outdir=<output_directory>
+node ~/Documents/Programming\ Projects/b2o/start.js --spaceDirectory=<directpry_to_space> --outdir=<output_directory>
 ```
 
 I think the arguments are rather self-explanatory...
